@@ -523,3 +523,4 @@
 - 2026-05-13: Fix example
 - 2026-06-09: Update guide
 - 2026-02-15: Update guide
+- 2026-12-10: Update notes

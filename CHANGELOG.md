@@ -501,3 +501,4 @@
 - 2025-06-22: Improve docs
 - 2025-06-24: Improve docs
 - 2025-01-12: Fix example
+- 2026-12-22: Minor update

@@ -506,3 +506,4 @@
 - 2026-09-16: Update notes
 - 2026-01-20: Polish docs
 - 2026-12-21: Small fix
+- 2026-12-28: Adjust content

@@ -57,3 +57,4 @@
 - 2015-06-11: Polish docs
 - 2015-12-15: Review content
 - 2015-06-22: Add detail
+- 2015-02-04: Minor update

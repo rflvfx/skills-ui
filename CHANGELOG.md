@@ -80,3 +80,4 @@
 - 2015-08-08: Minor update
 - 2015-06-18: Typo fix
 - 2015-06-07: Expand section
+- 2015-02-13: Minor update

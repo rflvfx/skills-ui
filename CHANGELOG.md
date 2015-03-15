@@ -53,3 +53,4 @@
 - 2015-07-02: Add note
 - 2015-09-08: Polish docs
 - 2015-04-04: Add remark
+- 2015-03-15: Improve docs

@@ -17,3 +17,5 @@
 - 2023-03-27: Expand skeleton screens docs
 - 2023-10-22: Document toast patterns
 - 2023-12-13: Document modal behavior
+- 2015-03-26: Add focus rings examples
+- 2024-09-28: Document breadcrumb nav

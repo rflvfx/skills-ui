@@ -13,3 +13,4 @@
 - 2015-07-28: Improve docs
 - 2015-12-04: Add remark
 - 2015-01-07: Typo fix
+- 2015-05-20: Update guide

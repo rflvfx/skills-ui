@@ -66,3 +66,4 @@
 - 2015-11-05: Review content
 - 2015-12-17: Improve docs
 - 2015-03-23: Minor update
+- 2015-05-26: Add remark

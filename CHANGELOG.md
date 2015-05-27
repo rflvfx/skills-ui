@@ -58,3 +58,4 @@
 - 2015-12-15: Review content
 - 2015-06-22: Add detail
 - 2015-02-04: Minor update
+- 2015-05-27: Refine text

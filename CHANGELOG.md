@@ -79,3 +79,4 @@
 - 2015-04-06: Review content
 - 2015-08-08: Minor update
 - 2015-06-18: Typo fix
+- 2015-06-07: Expand section

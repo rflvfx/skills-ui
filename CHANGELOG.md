@@ -67,3 +67,4 @@
 - 2015-12-17: Improve docs
 - 2015-03-23: Minor update
 - 2015-05-26: Add remark
+- 2015-06-25: Small fix

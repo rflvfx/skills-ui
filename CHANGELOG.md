@@ -87,3 +87,4 @@
 - 2015-10-14: Polish docs
 - 2015-06-08: Fix example
 - 2015-04-16: Polish docs
+- 2015-06-26: Refine text

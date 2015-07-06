@@ -72,3 +72,4 @@
 - 2015-10-05: Add remark
 - 2015-12-21: Fix example
 - 2015-04-14: Typo fix
+- 2015-07-06: Adjust content

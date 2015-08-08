@@ -77,3 +77,4 @@
 - 2015-06-04: Typo fix
 - 2015-03-04: Refine text
 - 2015-04-06: Review content
+- 2015-08-08: Minor update

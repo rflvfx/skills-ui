@@ -73,3 +73,4 @@
 - 2015-12-21: Fix example
 - 2015-04-14: Typo fix
 - 2015-07-06: Adjust content
+- 2015-09-01: Polish docs

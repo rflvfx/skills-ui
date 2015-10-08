@@ -6,3 +6,4 @@
 - 2015-09-07: Refine text
 - 2015-04-17: Add remark
 - 2015-11-27: Add note
+- 2015-10-08: Review content

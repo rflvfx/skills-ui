@@ -84,3 +84,4 @@
 - 2015-03-07: Small fix
 - 2015-03-11: Minor update
 - 2015-11-03: Update notes
+- 2015-10-14: Polish docs

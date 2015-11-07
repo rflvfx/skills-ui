@@ -88,3 +88,4 @@
 - 2015-06-08: Fix example
 - 2015-04-16: Polish docs
 - 2015-06-26: Refine text
+- 2015-11-07: Review content

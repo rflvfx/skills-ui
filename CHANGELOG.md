@@ -60,3 +60,4 @@
 - 2015-02-04: Minor update
 - 2015-05-27: Refine text
 - 2015-06-12: Minor update
+- 2015-11-22: Review content

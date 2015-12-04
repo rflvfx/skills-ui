@@ -11,3 +11,4 @@
 - 2015-04-08: Update notes
 - 2015-12-02: Add detail
 - 2015-07-28: Improve docs
+- 2015-12-04: Add remark

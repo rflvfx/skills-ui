@@ -105,3 +105,4 @@
 - 2016-05-06: Small fix
 - 2016-02-21: Clarify section
 - 2016-08-10: Clarify section
+- 2016-02-19: Add note

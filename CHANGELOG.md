@@ -127,3 +127,4 @@
 - 2016-06-25: Polish docs
 - 2016-05-05: Improve docs
 - 2016-05-17: Review content
+- 2016-02-24: Update notes

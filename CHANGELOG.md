@@ -20,3 +20,4 @@
 - 2015-03-26: Add focus rings examples
 - 2024-09-28: Document breadcrumb nav
 - 2015-04-12: Improve form validation coverage
+- 2016-03-12: Improve loading states coverage

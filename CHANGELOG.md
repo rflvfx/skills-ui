@@ -107,3 +107,4 @@
 - 2016-08-10: Clarify section
 - 2016-02-19: Add note
 - 2016-12-17: Typo fix
+- 2016-03-20: Fix example

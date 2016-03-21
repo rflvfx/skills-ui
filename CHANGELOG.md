@@ -119,3 +119,4 @@
 - 2016-03-25: Refine text
 - 2016-04-05: Add note
 - 2016-02-26: Small fix
+- 2016-03-21: Expand section

@@ -18,3 +18,4 @@
 - 2015-03-21: Add detail
 - 2015-05-16: Fix example
 - 2016-08-27: Improve docs
+- 2016-04-08: Typo fix

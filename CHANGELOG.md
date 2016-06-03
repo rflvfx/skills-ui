@@ -115,3 +115,4 @@
 - 2016-07-27: Add note
 - 2016-09-27: Review content
 - 2016-11-02: Expand section
+- 2016-06-03: Small fix

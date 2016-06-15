@@ -89,3 +89,4 @@
 - 2015-04-16: Polish docs
 - 2015-06-26: Refine text
 - 2015-11-07: Review content
+- 2016-06-15: Minor update

@@ -123,3 +123,4 @@
 - 2016-12-09: Add remark
 - 2016-01-14: Add note
 - 2016-10-18: Review content
+- 2016-07-13: Add detail

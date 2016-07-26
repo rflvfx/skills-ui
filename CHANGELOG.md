@@ -131,3 +131,4 @@
 - 2016-04-24: Update notes
 - 2016-10-14: Polish docs
 - 2016-04-01: Add detail
+- 2016-07-26: Small fix

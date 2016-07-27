@@ -112,3 +112,4 @@
 - 2016-12-08: Polish docs
 - 2016-05-06: Expand section
 - 2016-07-11: Improve docs
+- 2016-07-27: Add note

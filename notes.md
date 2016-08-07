@@ -24,3 +24,4 @@
 - 2016-11-04: Polish docs
 - 2016-05-19: Small fix
 - 2016-07-17: Add note
+- 2016-08-07: Refine text

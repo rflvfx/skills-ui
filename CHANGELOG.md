@@ -21,3 +21,4 @@
 - 2024-09-28: Document breadcrumb nav
 - 2015-04-12: Improve form validation coverage
 - 2016-03-12: Improve loading states coverage
+- 2016-08-08: Expand empty states docs

@@ -17,3 +17,4 @@
 - 2015-09-10: Update notes
 - 2015-03-21: Add detail
 - 2015-05-16: Fix example
+- 2016-08-27: Improve docs

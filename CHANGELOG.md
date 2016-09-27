@@ -113,3 +113,4 @@
 - 2016-05-06: Expand section
 - 2016-07-11: Improve docs
 - 2016-07-27: Add note
+- 2016-09-27: Review content

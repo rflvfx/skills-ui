@@ -129,3 +129,4 @@
 - 2016-05-17: Review content
 - 2016-02-24: Update notes
 - 2016-04-24: Update notes
+- 2016-10-14: Polish docs

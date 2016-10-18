@@ -122,3 +122,4 @@
 - 2016-03-21: Expand section
 - 2016-12-09: Add remark
 - 2016-01-14: Add note
+- 2016-10-18: Review content

@@ -100,3 +100,4 @@
 - 2016-11-21: Fix example
 - 2016-06-10: Improve docs
 - 2016-11-27: Add detail
+- 2016-10-22: Add detail

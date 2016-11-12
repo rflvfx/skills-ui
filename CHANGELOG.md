@@ -93,3 +93,4 @@
 - 2016-12-11: Update notes
 - 2016-03-03: Add remark
 - 2016-10-17: Add remark
+- 2016-11-12: Update notes

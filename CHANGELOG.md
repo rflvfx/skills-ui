@@ -109,3 +109,4 @@
 - 2016-12-17: Typo fix
 - 2016-03-20: Fix example
 - 2016-06-20: Clarify section
+- 2016-12-08: Polish docs

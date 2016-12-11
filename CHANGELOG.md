@@ -90,3 +90,4 @@
 - 2015-06-26: Refine text
 - 2015-11-07: Review content
 - 2016-06-15: Minor update
+- 2016-12-11: Update notes

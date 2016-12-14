@@ -95,3 +95,4 @@
 - 2016-10-17: Add remark
 - 2016-11-12: Update notes
 - 2016-10-13: Refine text
+- 2016-12-14: Clarify section

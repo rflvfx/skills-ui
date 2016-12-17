@@ -106,3 +106,4 @@
 - 2016-02-21: Clarify section
 - 2016-08-10: Clarify section
 - 2016-02-19: Add note
+- 2016-12-17: Typo fix

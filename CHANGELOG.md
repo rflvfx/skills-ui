@@ -24,3 +24,4 @@
 - 2016-08-08: Expand empty states docs
 - 2016-08-18: Add skeleton screens examples
 - 2025-12-08: Document breakpoint system
+- 2016-12-25: Refine toast patterns guide

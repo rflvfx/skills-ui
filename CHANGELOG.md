@@ -136,3 +136,4 @@
 - 2017-07-04: Typo fix
 - 2017-05-19: Fix example
 - 2017-04-10: Add note
+- 2017-02-13: Polish docs

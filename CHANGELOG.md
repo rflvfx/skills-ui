@@ -175,3 +175,4 @@
 - 2017-05-21: Polish docs
 - 2017-03-07: Minor update
 - 2017-07-24: Polish docs
+- 2017-03-12: Small fix

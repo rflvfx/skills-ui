@@ -30,3 +30,4 @@
 - 2017-05-09: Add note
 - 2017-03-03: Update guide
 - 2017-12-24: Refine text
+- 2017-04-14: Minor update

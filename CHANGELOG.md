@@ -152,3 +152,4 @@
 - 2017-05-14: Minor update
 - 2017-12-04: Refine text
 - 2017-04-15: Expand section
+- 2017-04-17: Update notes

@@ -139,3 +139,4 @@
 - 2017-02-13: Polish docs
 - 2017-08-11: Adjust content
 - 2017-09-26: Fix example
+- 2017-04-21: Clarify section

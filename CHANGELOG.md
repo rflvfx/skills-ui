@@ -167,3 +167,4 @@
 - 2017-08-03: Polish docs
 - 2017-03-15: Add remark
 - 2017-03-24: Add remark
+- 2017-05-07: Add note

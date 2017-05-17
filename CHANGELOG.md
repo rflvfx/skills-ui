@@ -141,3 +141,4 @@
 - 2017-09-26: Fix example
 - 2017-04-21: Clarify section
 - 2017-12-18: Polish docs
+- 2017-05-17: Adjust content

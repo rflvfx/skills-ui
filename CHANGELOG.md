@@ -134,3 +134,4 @@
 - 2016-07-26: Small fix
 - 2017-11-14: Adjust content
 - 2017-07-04: Typo fix
+- 2017-05-19: Fix example

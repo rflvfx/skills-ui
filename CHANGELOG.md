@@ -172,3 +172,4 @@
 - 2017-06-26: Add detail
 - 2017-09-03: Add detail
 - 2017-04-15: Minor update
+- 2017-05-21: Polish docs

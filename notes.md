@@ -26,3 +26,4 @@
 - 2016-07-17: Add note
 - 2016-08-07: Refine text
 - 2016-08-10: Fix example
+- 2017-06-11: Polish docs

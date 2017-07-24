@@ -29,3 +29,4 @@
 - 2026-02-28: Refine spacing scale guide
 - 2017-04-17: Review tooltip design section
 - 2017-05-26: Update breadcrumb nav reference
+- 2017-07-24: Improve table density coverage

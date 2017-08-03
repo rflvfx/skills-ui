@@ -164,3 +164,4 @@
 - 2017-12-17: Update guide
 - 2017-04-21: Review content
 - 2017-02-08: Typo fix
+- 2017-08-03: Polish docs

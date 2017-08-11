@@ -137,3 +137,4 @@
 - 2017-05-19: Fix example
 - 2017-04-10: Add note
 - 2017-02-13: Polish docs
+- 2017-08-11: Adjust content

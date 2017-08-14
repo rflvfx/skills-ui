@@ -147,3 +147,4 @@
 - 2017-02-27: Add remark
 - 2017-08-16: Update notes
 - 2017-04-23: Add remark
+- 2017-08-14: Refine text

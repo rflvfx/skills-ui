@@ -170,3 +170,4 @@
 - 2017-05-07: Add note
 - 2017-05-12: Adjust content
 - 2017-06-26: Add detail
+- 2017-09-03: Add detail

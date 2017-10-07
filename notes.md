@@ -32,3 +32,4 @@
 - 2017-12-24: Refine text
 - 2017-04-14: Minor update
 - 2017-06-19: Expand section
+- 2017-10-07: Minor update

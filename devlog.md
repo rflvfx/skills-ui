@@ -5,3 +5,4 @@
 - 2021-09-17 - Small fixes
 - 2023-03-20 - Small fixes
 - 2015-10-18 — Refine exercises
+- 2017-10-14 — Improve documentation

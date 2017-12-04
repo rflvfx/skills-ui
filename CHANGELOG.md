@@ -150,3 +150,4 @@
 - 2017-08-14: Refine text
 - 2017-02-11: Add remark
 - 2017-05-14: Minor update
+- 2017-12-04: Refine text

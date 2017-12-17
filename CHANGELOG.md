@@ -161,3 +161,4 @@
 - 2017-08-25: Add remark
 - 2017-12-07: Small fix
 - 2017-03-21: Add remark
+- 2017-12-17: Update guide

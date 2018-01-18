@@ -46,3 +46,4 @@
 - 2018-11-24: Add detail
 - 2018-01-23: Adjust content
 - 2018-05-03: Add remark
+- 2018-01-18: Adjust content

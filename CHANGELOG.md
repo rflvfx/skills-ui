@@ -183,3 +183,4 @@
 - 2018-04-07: Clarify section
 - 2018-07-28: Small fix
 - 2018-01-28: Typo fix
+- 2018-02-19: Adjust content

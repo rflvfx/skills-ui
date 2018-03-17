@@ -178,3 +178,4 @@
 - 2017-03-12: Small fix
 - 2018-07-13: Clarify section
 - 2018-04-21: Fix example
+- 2018-03-17: Clarify section

@@ -213,3 +213,4 @@
 - 2018-05-24: Improve docs
 - 2018-08-08: Update guide
 - 2018-04-16: Improve docs
+- 2018-03-21: Small fix

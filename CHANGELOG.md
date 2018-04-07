@@ -180,3 +180,4 @@
 - 2018-04-21: Fix example
 - 2018-03-17: Clarify section
 - 2018-12-10: Small fix
+- 2018-04-07: Clarify section

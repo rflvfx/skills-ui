@@ -206,3 +206,4 @@
 - 2018-12-13: Update notes
 - 2018-04-01: Adjust content
 - 2018-12-23: Add note
+- 2018-04-16: Improve docs

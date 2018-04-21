@@ -177,3 +177,4 @@
 - 2017-07-24: Polish docs
 - 2017-03-12: Small fix
 - 2018-07-13: Clarify section
+- 2018-04-21: Fix example

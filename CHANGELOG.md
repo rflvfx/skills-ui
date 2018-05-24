@@ -210,3 +210,4 @@
 - 2018-07-12: Review content
 - 2018-06-02: Improve docs
 - 2018-02-28: Small fix
+- 2018-05-24: Improve docs

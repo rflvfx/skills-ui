@@ -5,3 +5,4 @@
 - 2017-08-02: Improve loading states coverage
 - 2017-09-23: Document empty states
 - 2018-01-06: Add toast patterns notes
+- 2018-07-11: Add modal behavior examples

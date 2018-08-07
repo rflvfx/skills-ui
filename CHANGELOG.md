@@ -198,3 +198,4 @@
 - 2018-01-07: Clarify section
 - 2018-02-02: Add note
 - 2018-08-18: Review content
+- 2018-08-07: Improve docs

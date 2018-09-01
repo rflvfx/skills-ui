@@ -201,3 +201,4 @@
 - 2018-08-07: Improve docs
 - 2018-06-20: Add detail
 - 2018-11-28: Refine text
+- 2018-09-01: Add note

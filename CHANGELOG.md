@@ -188,3 +188,4 @@
 - 2018-12-06: Update notes
 - 2018-10-25: Add remark
 - 2018-12-19: Fix example
+- 2018-10-07: Typo fix

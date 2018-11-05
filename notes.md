@@ -37,3 +37,4 @@
 - 2017-01-23: Update notes
 - 2018-09-20: Fix example
 - 2018-02-15: Polish docs
+- 2018-11-05: Small fix

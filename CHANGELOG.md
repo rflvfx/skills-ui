@@ -192,3 +192,4 @@
 - 2018-09-26: Review content
 - 2018-04-10: Polish docs
 - 2018-04-04: Clarify section
+- 2018-11-14: Polish docs

@@ -200,3 +200,4 @@
 - 2018-08-18: Review content
 - 2018-08-07: Improve docs
 - 2018-06-20: Add detail
+- 2018-11-28: Refine text

@@ -202,3 +202,4 @@
 - 2018-06-20: Add detail
 - 2018-11-28: Refine text
 - 2018-09-01: Add note
+- 2018-11-28: Review content

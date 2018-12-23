@@ -205,3 +205,4 @@
 - 2018-11-28: Review content
 - 2018-12-13: Update notes
 - 2018-04-01: Adjust content
+- 2018-12-23: Add note

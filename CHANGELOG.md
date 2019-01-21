@@ -250,3 +250,4 @@
 - 2019-10-12: Fix example
 - 2019-08-10: Refine text
 - 2019-07-25: Expand section
+- 2019-01-21: Clarify section

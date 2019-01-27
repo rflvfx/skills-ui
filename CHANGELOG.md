@@ -218,3 +218,4 @@
 - 2018-01-04: Adjust content
 - 2018-07-04: Add detail
 - 2018-03-03: Update guide
+- 2019-01-27: Update notes

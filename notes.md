@@ -57,3 +57,4 @@
 - 2019-09-26: Add remark
 - 2019-02-02: Polish docs
 - 2019-07-24: Add remark
+- 2019-02-15: Improve docs

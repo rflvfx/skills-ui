@@ -229,3 +229,4 @@
 - 2019-09-04: Update guide
 - 2019-11-24: Add detail
 - 2019-05-07: Polish docs
+- 2019-04-08: Update notes

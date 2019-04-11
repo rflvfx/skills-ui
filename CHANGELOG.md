@@ -239,3 +239,4 @@
 - 2019-02-17: Typo fix
 - 2019-05-15: Update guide
 - 2019-08-20: Update guide
+- 2019-04-11: Fix example

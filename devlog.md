@@ -7,3 +7,4 @@
 - 2015-10-18 — Refine exercises
 - 2017-10-14 — Improve documentation
 - 2019-03-03 — Add practice notes
+- 2019-05-03 — Fix examples

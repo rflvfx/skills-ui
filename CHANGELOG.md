@@ -237,3 +237,4 @@
 - 2019-01-04: Add remark
 - 2019-07-11: Adjust content
 - 2019-02-17: Typo fix
+- 2019-05-15: Update guide

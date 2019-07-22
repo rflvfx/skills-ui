@@ -243,3 +243,4 @@
 - 2019-01-23: Review content
 - 2019-12-06: Add detail
 - 2019-11-21: Fix example
+- 2019-07-22: Add note

@@ -255,3 +255,4 @@
 - 2019-12-28: Review content
 - 2019-07-13: Clarify section
 - 2019-06-22: Update notes
+- 2019-09-20: Refine text

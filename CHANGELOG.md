@@ -247,3 +247,4 @@
 - 2019-02-27: Add remark
 - 2019-10-14: Add remark
 - 2019-09-25: Review content
+- 2019-10-12: Fix example

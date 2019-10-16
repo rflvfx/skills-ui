@@ -60,3 +60,4 @@
 - 2019-02-15: Improve docs
 - 2019-06-13: Add remark
 - 2019-07-12: Minor update
+- 2019-10-16: Minor update

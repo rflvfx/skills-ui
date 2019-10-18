@@ -52,3 +52,4 @@
 - 2019-06-08: Typo fix
 - 2019-11-04: Update notes
 - 2019-07-19: Polish docs
+- 2019-10-18: Minor update

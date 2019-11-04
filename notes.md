@@ -50,3 +50,4 @@
 - 2018-03-24: Update notes
 - 2019-11-24: Clarify section
 - 2019-06-08: Typo fix
+- 2019-11-04: Update notes

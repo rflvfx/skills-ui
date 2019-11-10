@@ -33,3 +33,4 @@
 - 2018-04-26: Add grid utilities notes
 - 2018-08-24: Review breakpoint system section
 - 2019-11-05: Add focus rings notes
+- 2019-11-10: Update form validation reference

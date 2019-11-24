@@ -227,3 +227,4 @@
 - 2019-03-22: Review content
 - 2019-09-11: Update notes
 - 2019-09-04: Update guide
+- 2019-11-24: Add detail

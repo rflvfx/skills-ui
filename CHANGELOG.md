@@ -222,3 +222,4 @@
 - 2019-09-13: Add detail
 - 2019-09-01: Expand section
 - 2019-12-18: Refine text
+- 2019-12-03: Adjust content

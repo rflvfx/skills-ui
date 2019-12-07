@@ -233,3 +233,4 @@
 - 2019-12-12: Adjust content
 - 2019-09-07: Review content
 - 2019-04-02: Clarify section
+- 2019-12-07: Refine text

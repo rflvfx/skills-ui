@@ -230,3 +230,4 @@
 - 2019-11-24: Add detail
 - 2019-05-07: Polish docs
 - 2019-04-08: Update notes
+- 2019-12-12: Adjust content

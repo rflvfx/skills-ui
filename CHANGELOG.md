@@ -221,3 +221,4 @@
 - 2019-01-27: Update notes
 - 2019-09-13: Add detail
 - 2019-09-01: Expand section
+- 2019-12-18: Refine text

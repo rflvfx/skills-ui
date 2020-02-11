@@ -281,3 +281,4 @@
 - 2020-03-01: Update notes
 - 2020-08-02: Polish docs
 - 2020-08-28: Small fix
+- 2020-02-11: Small fix

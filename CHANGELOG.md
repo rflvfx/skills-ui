@@ -288,3 +288,4 @@
 - 2020-10-23: Small fix
 - 2020-01-15: Add remark
 - 2020-07-15: Update guide
+- 2020-02-14: Clarify section

@@ -74,3 +74,4 @@
 - 2020-09-28: Refine text
 - 2020-10-10: Clarify section
 - 2020-03-09: Fix example
+- 2020-02-26: Add detail

@@ -266,3 +266,4 @@
 - 2020-11-13: Improve docs
 - 2020-05-26: Update guide
 - 2020-11-18: Update notes
+- 2020-03-23: Expand section

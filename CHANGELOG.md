@@ -293,3 +293,4 @@
 - 2020-08-08: Update guide
 - 2020-06-14: Polish docs
 - 2020-11-23: Typo fix
+- 2020-04-27: Expand section

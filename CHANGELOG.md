@@ -273,3 +273,4 @@
 - 2020-09-16: Small fix
 - 2020-02-23: Fix example
 - 2020-02-01: Improve docs
+- 2020-05-01: Improve docs

@@ -289,3 +289,4 @@
 - 2020-01-15: Add remark
 - 2020-07-15: Update guide
 - 2020-02-14: Clarify section
+- 2020-05-08: Add detail

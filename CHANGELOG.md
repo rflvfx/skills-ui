@@ -264,3 +264,4 @@
 - 2020-12-17: Typo fix
 - 2020-03-17: Polish docs
 - 2020-11-13: Improve docs
+- 2020-05-26: Update guide

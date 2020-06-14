@@ -291,3 +291,4 @@
 - 2020-02-14: Clarify section
 - 2020-05-08: Add detail
 - 2020-08-08: Update guide
+- 2020-06-14: Polish docs

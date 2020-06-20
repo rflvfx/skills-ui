@@ -65,3 +65,4 @@
 - 2020-07-07: Expand section
 - 2020-04-13: Clarify section
 - 2020-08-13: Small fix
+- 2020-06-20: Small fix

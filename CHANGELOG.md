@@ -287,3 +287,4 @@
 - 2020-10-25: Update notes
 - 2020-10-23: Small fix
 - 2020-01-15: Add remark
+- 2020-07-15: Update guide

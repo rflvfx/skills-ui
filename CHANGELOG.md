@@ -279,3 +279,4 @@
 - 2020-10-20: Clarify section
 - 2020-10-25: Add detail
 - 2020-03-01: Update notes
+- 2020-08-02: Polish docs

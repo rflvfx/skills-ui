@@ -260,3 +260,4 @@
 - 2019-05-24: Add remark
 - 2020-11-02: Clarify section
 - 2020-01-11: Fix example
+- 2020-08-17: Fix example

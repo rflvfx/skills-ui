@@ -270,3 +270,4 @@
 - 2020-01-07: Review content
 - 2020-01-04: Adjust content
 - 2020-01-27: Clarify section
+- 2020-09-16: Small fix

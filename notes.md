@@ -71,3 +71,4 @@
 - 2020-08-03: Polish docs
 - 2020-12-03: Fix example
 - 2020-12-22: Typo fix
+- 2020-09-28: Refine text

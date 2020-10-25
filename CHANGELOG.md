@@ -277,3 +277,4 @@
 - 2020-04-09: Small fix
 - 2020-06-27: Update notes
 - 2020-10-20: Clarify section
+- 2020-10-25: Add detail

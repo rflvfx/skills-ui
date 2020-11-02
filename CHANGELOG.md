@@ -258,3 +258,4 @@
 - 2019-09-20: Refine text
 - 2019-03-05: Review content
 - 2019-05-24: Add remark
+- 2020-11-02: Clarify section

@@ -263,3 +263,4 @@
 - 2020-08-17: Fix example
 - 2020-12-17: Typo fix
 - 2020-03-17: Polish docs
+- 2020-11-13: Improve docs

@@ -7,3 +7,4 @@
 - 2018-01-06: Add toast patterns notes
 - 2018-07-11: Add modal behavior examples
 - 2019-09-01: Expand table density docs
+- 2020-11-26: Document grid utilities

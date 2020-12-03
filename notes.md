@@ -69,3 +69,4 @@
 - 2020-11-03: Review content
 - 2020-02-28: Add note
 - 2020-08-03: Polish docs
+- 2020-12-03: Fix example

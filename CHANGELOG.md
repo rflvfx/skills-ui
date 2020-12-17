@@ -261,3 +261,4 @@
 - 2020-11-02: Clarify section
 - 2020-01-11: Fix example
 - 2020-08-17: Fix example
+- 2020-12-17: Typo fix

@@ -9,3 +9,4 @@
 - 2019-09-01: Expand table density docs
 - 2020-11-26: Document grid utilities
 - 2020-12-18: Add breakpoint system examples
+- 2020-12-27: Document color tokens

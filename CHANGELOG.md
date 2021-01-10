@@ -10,3 +10,4 @@
 - 2020-11-26: Document grid utilities
 - 2020-12-18: Add breakpoint system examples
 - 2020-12-27: Document color tokens
+- 2021-01-10: Add spacing scale notes

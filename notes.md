@@ -83,3 +83,4 @@
 - 2021-12-06: Minor update
 - 2021-10-27: Adjust content
 - 2021-12-19: Update notes
+- 2021-01-26: Polish docs

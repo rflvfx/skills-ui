@@ -75,3 +75,4 @@
 - 2020-10-10: Clarify section
 - 2020-03-09: Fix example
 - 2020-02-26: Add detail
+- 2021-02-19: Improve docs

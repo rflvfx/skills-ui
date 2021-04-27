@@ -301,3 +301,4 @@
 - 2021-04-26: Update guide
 - 2021-02-04: Clarify section
 - 2021-07-19: Minor update
+- 2021-04-27: Fix example

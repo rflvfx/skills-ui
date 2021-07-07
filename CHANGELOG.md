@@ -321,3 +321,4 @@
 - 2021-04-03: Update notes
 - 2021-06-20: Add detail
 - 2021-12-06: Review content
+- 2021-07-07: Refine text

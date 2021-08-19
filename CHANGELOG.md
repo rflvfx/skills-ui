@@ -310,3 +310,4 @@
 - 2021-10-09: Polish docs
 - 2021-02-16: Polish docs
 - 2021-04-11: Expand section
+- 2021-08-19: Adjust content

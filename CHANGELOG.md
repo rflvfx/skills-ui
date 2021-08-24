@@ -302,3 +302,4 @@
 - 2021-02-04: Clarify section
 - 2021-07-19: Minor update
 - 2021-04-27: Fix example
+- 2021-08-24: Update notes

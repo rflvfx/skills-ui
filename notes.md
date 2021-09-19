@@ -77,3 +77,4 @@
 - 2020-02-26: Add detail
 - 2021-02-19: Improve docs
 - 2021-02-20: Add note
+- 2021-09-19: Small fix

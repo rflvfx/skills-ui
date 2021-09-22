@@ -324,3 +324,4 @@
 - 2021-07-07: Refine text
 - 2021-09-19: Fix example
 - 2021-09-28: Expand section
+- 2021-09-22: Add detail

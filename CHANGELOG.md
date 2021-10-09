@@ -307,3 +307,4 @@
 - 2021-09-10: Minor update
 - 2021-10-03: Minor update
 - 2021-04-23: Add detail
+- 2021-10-09: Polish docs

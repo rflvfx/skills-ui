@@ -332,3 +332,4 @@
 - 2021-02-03: Small fix
 - 2021-08-08: Improve docs
 - 2021-01-05: Typo fix
+- 2021-12-02: Refine text

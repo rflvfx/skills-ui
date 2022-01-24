@@ -356,3 +356,4 @@
 - 2022-01-21: Add remark
 - 2022-04-13: Typo fix
 - 2022-08-05: Fix example
+- 2022-01-24: Typo fix

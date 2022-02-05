@@ -363,3 +363,4 @@
 - 2022-05-14: Minor update
 - 2022-03-13: Add note
 - 2022-12-26: Typo fix
+- 2022-02-05: Typo fix

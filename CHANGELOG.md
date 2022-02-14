@@ -345,3 +345,4 @@
 - 2022-02-19: Fix example
 - 2022-05-28: Review content
 - 2022-08-14: Update guide
+- 2022-02-14: Expand section

@@ -334,3 +334,4 @@
 - 2021-01-05: Typo fix
 - 2021-12-02: Refine text
 - 2022-12-11: Fix example
+- 2022-03-16: Add detail

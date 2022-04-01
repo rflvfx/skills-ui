@@ -88,3 +88,4 @@
 - 2021-12-24: Small fix
 - 2021-11-20: Fix example
 - 2022-06-06: Small fix
+- 2022-04-01: Clarify section

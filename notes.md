@@ -96,3 +96,4 @@
 - 2022-07-28: Expand section
 - 2022-07-27: Improve docs
 - 2022-02-10: Add detail
+- 2022-04-13: Adjust content

@@ -37,3 +37,4 @@
 - 2020-12-24: Update toast patterns reference
 - 2021-09-14: Add breadcrumb nav examples
 - 2021-10-17: Add table density notes
+- 2022-04-23: Add grid utilities examples

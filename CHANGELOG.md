@@ -12,3 +12,4 @@
 - 2020-12-27: Document color tokens
 - 2021-01-10: Add spacing scale notes
 - 2021-01-25: Expand typography scale docs
+- 2022-06-11: Document loading states

@@ -365,3 +365,4 @@
 - 2022-12-26: Typo fix
 - 2022-02-05: Typo fix
 - 2022-01-11: Clarify section
+- 2022-08-11: Small fix

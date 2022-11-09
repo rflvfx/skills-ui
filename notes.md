@@ -98,3 +98,4 @@
 - 2022-02-10: Add detail
 - 2022-04-13: Adjust content
 - 2022-07-25: Improve docs
+- 2022-11-09: Add detail

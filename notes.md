@@ -89,3 +89,4 @@
 - 2021-11-20: Fix example
 - 2022-06-06: Small fix
 - 2022-04-01: Clarify section
+- 2022-12-11: Improve docs

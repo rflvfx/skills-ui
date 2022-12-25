@@ -335,3 +335,4 @@
 - 2021-12-02: Refine text
 - 2022-12-11: Fix example
 - 2022-03-16: Add detail
+- 2022-12-25: Update guide

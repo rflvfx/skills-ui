@@ -362,3 +362,4 @@
 - 2022-04-26: Refine text
 - 2022-05-14: Minor update
 - 2022-03-13: Add note
+- 2022-12-26: Typo fix

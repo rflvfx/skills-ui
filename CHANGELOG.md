@@ -38,3 +38,4 @@
 - 2021-09-14: Add breadcrumb nav examples
 - 2021-10-17: Add table density notes
 - 2022-04-23: Add grid utilities examples
+- 2023-01-02: Review spacing scale section

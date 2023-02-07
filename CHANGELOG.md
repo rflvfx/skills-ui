@@ -378,3 +378,4 @@
 - 2023-03-26: Improve docs
 - 2023-06-19: Adjust content
 - 2023-04-27: Small fix
+- 2023-02-07: Expand section

@@ -401,3 +401,4 @@
 - 2023-10-08: Typo fix
 - 2023-07-15: Clarify section
 - 2023-11-19: Add remark
+- 2023-03-07: Update guide

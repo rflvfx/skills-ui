@@ -39,3 +39,4 @@
 - 2021-10-17: Add table density notes
 - 2022-04-23: Add grid utilities examples
 - 2023-01-02: Review spacing scale section
+- 2023-03-11: Document typography scale

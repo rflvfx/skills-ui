@@ -375,3 +375,4 @@
 - 2022-01-20: Small fix
 - 2023-02-19: Clarify section
 - 2023-08-08: Add remark
+- 2023-03-26: Improve docs

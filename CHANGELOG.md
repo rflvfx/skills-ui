@@ -14,3 +14,4 @@
 - 2021-01-25: Expand typography scale docs
 - 2022-06-11: Document loading states
 - 2022-07-16: Document empty states
+- 2023-03-27: Expand skeleton screens docs

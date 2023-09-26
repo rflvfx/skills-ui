@@ -11,3 +11,4 @@
 - 2020-07-24 — Review material
 - 2021-02-15 — Add practice notes
 - 2022-06-13 - Improve explanation
+- 2023-09-26 - Add quick reference

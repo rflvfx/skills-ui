@@ -398,3 +398,4 @@
 - 2023-06-14: Review content
 - 2023-10-24: Review content
 - 2023-07-20: Polish docs
+- 2023-10-08: Typo fix

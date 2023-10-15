@@ -102,3 +102,4 @@
 - 2023-03-26: Add detail
 - 2023-09-19: Typo fix
 - 2023-01-23: Improve docs
+- 2023-10-15: Typo fix

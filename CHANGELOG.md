@@ -15,3 +15,4 @@
 - 2022-06-11: Document loading states
 - 2022-07-16: Document empty states
 - 2023-03-27: Expand skeleton screens docs
+- 2023-10-22: Document toast patterns

@@ -104,3 +104,4 @@
 - 2023-01-23: Improve docs
 - 2023-10-15: Typo fix
 - 2023-04-01: Add note
+- 2023-11-17: Clarify section

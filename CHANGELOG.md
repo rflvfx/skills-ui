@@ -16,3 +16,4 @@
 - 2022-07-16: Document empty states
 - 2023-03-27: Expand skeleton screens docs
 - 2023-10-22: Document toast patterns
+- 2023-12-13: Document modal behavior

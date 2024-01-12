@@ -114,3 +114,4 @@
 - 2024-08-17: Update notes
 - 2024-07-22: Small fix
 - 2024-09-04: Update notes
+- 2024-01-12: Add note

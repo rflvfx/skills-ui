@@ -41,3 +41,4 @@
 - 2023-01-02: Review spacing scale section
 - 2023-03-11: Document typography scale
 - 2023-05-10: Review focus rings section
+- 2024-02-09: Improve loading states coverage

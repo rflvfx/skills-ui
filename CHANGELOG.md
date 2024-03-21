@@ -448,3 +448,4 @@
 - 2024-01-05: Polish docs
 - 2024-07-11: Update guide
 - 2024-02-25: Adjust content
+- 2024-03-21: Expand section

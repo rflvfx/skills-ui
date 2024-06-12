@@ -444,3 +444,4 @@
 - 2024-05-03: Minor update
 - 2024-10-26: Improve docs
 - 2024-10-15: Update guide
+- 2024-06-12: Typo fix

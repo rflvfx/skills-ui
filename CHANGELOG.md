@@ -455,3 +455,4 @@
 - 2024-10-17: Adjust content
 - 2024-04-19: Polish docs
 - 2024-07-27: Fix example
+- 2024-06-13: Expand section

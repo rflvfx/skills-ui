@@ -108,3 +108,4 @@
 - 2023-08-08: Fix example
 - 2023-03-02: Clarify section
 - 2024-04-16: Update notes
+- 2024-06-28: Polish docs

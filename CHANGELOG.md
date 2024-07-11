@@ -446,3 +446,4 @@
 - 2024-10-15: Update guide
 - 2024-06-12: Typo fix
 - 2024-01-05: Polish docs
+- 2024-07-11: Update guide

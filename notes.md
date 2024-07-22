@@ -112,3 +112,4 @@
 - 2024-08-20: Add detail
 - 2024-12-26: Update guide
 - 2024-08-17: Update notes
+- 2024-07-22: Small fix

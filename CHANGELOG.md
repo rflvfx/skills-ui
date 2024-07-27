@@ -454,3 +454,4 @@
 - 2024-03-11: Minor update
 - 2024-10-17: Adjust content
 - 2024-04-19: Polish docs
+- 2024-07-27: Fix example

@@ -429,3 +429,4 @@
 - 2024-10-18: Review content
 - 2024-09-27: Adjust content
 - 2024-09-18: Add note
+- 2024-10-01: Update notes

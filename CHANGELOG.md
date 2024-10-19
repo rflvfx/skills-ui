@@ -19,3 +19,4 @@
 - 2023-12-13: Document modal behavior
 - 2015-03-26: Add focus rings examples
 - 2024-09-28: Document breadcrumb nav
+- 2015-04-12: Improve form validation coverage

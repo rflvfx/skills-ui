@@ -442,3 +442,4 @@
 - 2024-04-23: Expand section
 - 2024-05-20: Update notes
 - 2024-05-03: Minor update
+- 2024-10-26: Improve docs

@@ -438,3 +438,4 @@
 - 2024-07-06: Update guide
 - 2024-03-23: Add detail
 - 2024-08-26: Add remark
+- 2024-12-18: Polish docs

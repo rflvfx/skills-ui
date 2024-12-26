@@ -110,3 +110,4 @@
 - 2024-04-16: Update notes
 - 2024-06-28: Polish docs
 - 2024-08-20: Add detail
+- 2024-12-26: Update guide

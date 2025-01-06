@@ -495,3 +495,4 @@
 - 2025-02-07: Expand section
 - 2025-11-26: Fix example
 - 2025-12-14: Polish docs
+- 2025-01-06: Fix example

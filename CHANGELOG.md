@@ -500,3 +500,4 @@
 - 2025-10-12: Review content
 - 2025-06-22: Improve docs
 - 2025-06-24: Improve docs
+- 2025-01-12: Fix example

@@ -475,3 +475,4 @@
 - 2025-08-21: Clarify section
 - 2025-10-19: Add note
 - 2025-05-21: Update guide
+- 2025-01-13: Adjust content

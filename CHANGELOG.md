@@ -489,3 +489,4 @@
 - 2025-12-16: Minor update
 - 2025-08-19: Fix example
 - 2025-07-10: Polish docs
+- 2025-03-12: Improve docs

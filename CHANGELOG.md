@@ -43,3 +43,4 @@
 - 2023-05-10: Review focus rings section
 - 2024-02-09: Improve loading states coverage
 - 2024-04-14: Update empty states reference
+- 2025-03-16: Update modal behavior reference

@@ -491,3 +491,4 @@
 - 2025-07-10: Polish docs
 - 2025-03-12: Improve docs
 - 2025-12-21: Update guide
+- 2025-04-07: Typo fix

@@ -126,3 +126,4 @@
 - 2025-02-04: Minor update
 - 2025-05-25: Add detail
 - 2025-03-14: Expand section
+- 2025-04-20: Refine text

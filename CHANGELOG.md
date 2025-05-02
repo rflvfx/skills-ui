@@ -480,3 +480,4 @@
 - 2025-10-04: Improve docs
 - 2025-09-01: Clarify section
 - 2025-08-28: Polish docs
+- 2025-05-02: Typo fix

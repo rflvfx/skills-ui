@@ -483,3 +483,4 @@
 - 2025-05-02: Typo fix
 - 2025-10-04: Update notes
 - 2025-04-01: Clarify section
+- 2025-05-12: Polish docs

@@ -119,3 +119,4 @@
 - 2024-05-06: Add note
 - 2024-09-26: Add remark
 - 2025-05-15: Add remark
+- 2025-05-24: Add detail

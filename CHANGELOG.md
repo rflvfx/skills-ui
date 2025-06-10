@@ -469,3 +469,4 @@
 - 2025-03-23: Refine text
 - 2025-12-11: Clarify section
 - 2025-04-13: Fix example
+- 2025-06-10: Refine text

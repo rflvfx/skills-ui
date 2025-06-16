@@ -120,3 +120,4 @@
 - 2024-09-26: Add remark
 - 2025-05-15: Add remark
 - 2025-05-24: Add detail
+- 2025-06-16: Update notes

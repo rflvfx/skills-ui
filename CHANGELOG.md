@@ -484,3 +484,4 @@
 - 2025-10-04: Update notes
 - 2025-04-01: Clarify section
 - 2025-05-12: Polish docs
+- 2025-06-17: Polish docs

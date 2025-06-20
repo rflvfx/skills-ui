@@ -461,3 +461,4 @@
 - 2025-10-05: Review content
 - 2025-06-10: Typo fix
 - 2025-04-25: Update notes
+- 2025-06-20: Update guide

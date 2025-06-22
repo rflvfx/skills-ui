@@ -457,3 +457,4 @@
 - 2024-07-27: Fix example
 - 2024-06-13: Expand section
 - 2025-02-14: Refine text
+- 2025-06-22: Update guide

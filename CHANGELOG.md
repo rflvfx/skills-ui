@@ -44,3 +44,4 @@
 - 2024-02-09: Improve loading states coverage
 - 2024-04-14: Update empty states reference
 - 2025-03-16: Update modal behavior reference
+- 2025-07-14: Document breadcrumb nav

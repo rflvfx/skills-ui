@@ -462,3 +462,4 @@
 - 2025-06-10: Typo fix
 - 2025-04-25: Update notes
 - 2025-06-20: Update guide
+- 2025-08-09: Add detail

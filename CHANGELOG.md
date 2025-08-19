@@ -470,3 +470,4 @@
 - 2025-12-11: Clarify section
 - 2025-04-13: Fix example
 - 2025-06-10: Refine text
+- 2025-08-19: Minor update

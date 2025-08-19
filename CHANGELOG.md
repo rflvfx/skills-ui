@@ -487,3 +487,4 @@
 - 2025-06-17: Polish docs
 - 2025-12-10: Typo fix
 - 2025-12-16: Minor update
+- 2025-08-19: Fix example

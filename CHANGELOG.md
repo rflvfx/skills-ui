@@ -45,3 +45,4 @@
 - 2024-04-14: Update empty states reference
 - 2025-03-16: Update modal behavior reference
 - 2025-07-14: Document breadcrumb nav
+- 2025-08-27: Document table density

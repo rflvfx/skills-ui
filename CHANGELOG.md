@@ -477,3 +477,4 @@
 - 2025-05-21: Update guide
 - 2025-01-13: Adjust content
 - 2025-12-05: Adjust content
+- 2025-10-04: Improve docs

@@ -458,3 +458,4 @@
 - 2024-06-13: Expand section
 - 2025-02-14: Refine text
 - 2025-06-22: Update guide
+- 2025-10-05: Review content

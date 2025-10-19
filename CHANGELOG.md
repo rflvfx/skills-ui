@@ -473,3 +473,4 @@
 - 2025-08-19: Minor update
 - 2025-01-08: Polish docs
 - 2025-08-21: Clarify section
+- 2025-10-19: Add note

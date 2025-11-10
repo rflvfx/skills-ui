@@ -127,3 +127,4 @@
 - 2025-05-25: Add detail
 - 2025-03-14: Expand section
 - 2025-04-20: Refine text
+- 2025-11-10: Update notes

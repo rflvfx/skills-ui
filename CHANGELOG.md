@@ -493,3 +493,4 @@
 - 2025-12-21: Update guide
 - 2025-04-07: Typo fix
 - 2025-02-07: Expand section
+- 2025-11-26: Fix example

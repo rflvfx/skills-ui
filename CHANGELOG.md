@@ -22,3 +22,5 @@
 - 2015-04-12: Improve form validation coverage
 - 2016-03-12: Improve loading states coverage
 - 2016-08-08: Expand empty states docs
+- 2016-08-18: Add skeleton screens examples
+- 2025-12-08: Document breakpoint system

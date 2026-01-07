@@ -537,3 +537,4 @@
 - 2026-09-19: Typo fix
 - 2026-01-26: Small fix
 - 2026-11-19: Add note
+- 2026-01-07: Minor update

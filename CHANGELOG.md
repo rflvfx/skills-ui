@@ -530,3 +530,4 @@
 - 2026-12-01: Typo fix
 - 2026-02-28: Improve docs
 - 2026-08-17: Review content
+- 2026-01-21: Polish docs

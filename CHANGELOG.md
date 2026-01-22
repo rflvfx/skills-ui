@@ -507,3 +507,4 @@
 - 2026-01-20: Polish docs
 - 2026-12-21: Small fix
 - 2026-12-28: Adjust content
+- 2026-01-22: Typo fix

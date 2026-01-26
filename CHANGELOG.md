@@ -535,3 +535,4 @@
 - 2026-06-09: Fix example
 - 2026-02-02: Improve docs
 - 2026-09-19: Typo fix
+- 2026-01-26: Small fix

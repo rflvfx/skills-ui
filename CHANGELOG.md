@@ -522,3 +522,4 @@
 - 2026-10-15: Adjust content
 - 2026-05-13: Fix example
 - 2026-06-09: Update guide
+- 2026-02-15: Update guide

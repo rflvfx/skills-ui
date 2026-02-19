@@ -511,3 +511,4 @@
 - 2026-06-28: Expand section
 - 2026-12-03: Small fix
 - 2026-05-18: Polish docs
+- 2026-02-19: Typo fix

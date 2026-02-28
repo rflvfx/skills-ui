@@ -528,3 +528,4 @@
 - 2026-02-12: Update guide
 - 2026-05-02: Adjust content
 - 2026-12-01: Typo fix
+- 2026-02-28: Improve docs

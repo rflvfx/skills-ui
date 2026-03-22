@@ -27,3 +27,4 @@
 - 2016-12-25: Refine toast patterns guide
 - 2017-02-01: Add modal behavior examples
 - 2026-02-28: Refine spacing scale guide
+- 2017-04-17: Review tooltip design section

@@ -514,3 +514,4 @@
 - 2026-02-19: Typo fix
 - 2026-04-01: Expand section
 - 2026-11-14: Minor update
+- 2026-03-24: Update guide

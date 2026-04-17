@@ -524,3 +524,4 @@
 - 2026-06-09: Update guide
 - 2026-02-15: Update guide
 - 2026-12-10: Update notes
+- 2026-04-17: Add note

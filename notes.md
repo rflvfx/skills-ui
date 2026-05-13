@@ -142,3 +142,4 @@
 - 2026-10-04: Minor update
 - 2026-04-03: Adjust content
 - 2026-12-07: Update guide
+- 2026-05-13: Clarify section

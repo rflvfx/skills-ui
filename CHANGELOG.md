@@ -510,3 +510,4 @@
 - 2026-01-22: Typo fix
 - 2026-06-28: Expand section
 - 2026-12-03: Small fix
+- 2026-05-18: Polish docs

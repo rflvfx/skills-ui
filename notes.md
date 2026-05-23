@@ -129,3 +129,4 @@
 - 2025-04-20: Refine text
 - 2025-11-10: Update notes
 - 2025-03-08: Polish docs
+- 2026-05-23: Update guide

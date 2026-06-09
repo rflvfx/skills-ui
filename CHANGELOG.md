@@ -521,3 +521,4 @@
 - 2026-08-08: Typo fix
 - 2026-10-15: Adjust content
 - 2026-05-13: Fix example
+- 2026-06-09: Update guide

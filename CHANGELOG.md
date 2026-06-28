@@ -508,3 +508,4 @@
 - 2026-12-21: Small fix
 - 2026-12-28: Adjust content
 - 2026-01-22: Typo fix
+- 2026-06-28: Expand section

@@ -135,3 +135,4 @@
 - 2026-09-18: Improve docs
 - 2026-06-27: Small fix
 - 2026-01-27: Refine text
+- 2026-08-01: Adjust content

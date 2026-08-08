@@ -518,3 +518,4 @@
 - 2026-06-17: Update guide
 - 2026-10-23: Update notes
 - 2026-02-26: Review content
+- 2026-08-08: Typo fix

@@ -132,3 +132,4 @@
 - 2026-05-23: Update guide
 - 2026-05-01: Minor update
 - 2026-06-15: Update guide
+- 2026-09-18: Improve docs

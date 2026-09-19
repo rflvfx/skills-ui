@@ -534,3 +534,4 @@
 - 2026-01-20: Add remark
 - 2026-06-09: Fix example
 - 2026-02-02: Improve docs
+- 2026-09-19: Typo fix

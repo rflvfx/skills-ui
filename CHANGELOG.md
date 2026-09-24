@@ -47,3 +47,4 @@
 - 2025-07-14: Document breadcrumb nav
 - 2025-08-27: Document table density
 - 2026-04-21: Improve icon alignment coverage
+- 2026-09-24: Improve grid utilities coverage

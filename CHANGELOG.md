@@ -516,3 +516,4 @@
 - 2026-11-14: Minor update
 - 2026-03-24: Update guide
 - 2026-06-17: Update guide
+- 2026-10-23: Update notes
